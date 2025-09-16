@@ -16,6 +16,13 @@ Currently, Quora uses a Random Forest model to identify duplicate questions.
 In this competition, Kagglers are challenged to tackle this natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. 
 Doing so will make it easier to find high quality answers to questions resulting in an improved experience for Quora writers, seekers, and readers.
 
+**My approach**
+
+1) Perform Data Preprocessing and use NLP technique like BOW. Also create some advanced feature to find pattern more accuratly in the dataset.
+2) use Random Forest algorithm.
+3) Achieve 78.51666666666667 accuracy.
+4) use Streamlit to make a user interface.
+
 **Citation**
 
 DataCanary, hilfialkaff, Lili Jiang, Meg Risdal, Nikhil Dandekar, and tomtung. Quora Question Pairs. https://kaggle.com/competitions/quora-question-pairs, 2017. Kaggle.
