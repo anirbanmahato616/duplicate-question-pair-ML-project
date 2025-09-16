@@ -1,8 +1,8 @@
----Quora Question Pairs---
+***---Quora Question Pairs---***
 
-Can you identify question pairs that have the same intent?
+**Can you identify question pairs that have the same intent?**
 
-Description
+**Description**
 
 Where else but Quora can a physicist help a chef with a math problem and get cooking tips in return? 
 Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. 
@@ -16,6 +16,6 @@ Currently, Quora uses a Random Forest model to identify duplicate questions.
 In this competition, Kagglers are challenged to tackle this natural language processing problem by applying advanced techniques to classify whether question pairs are duplicates or not. 
 Doing so will make it easier to find high quality answers to questions resulting in an improved experience for Quora writers, seekers, and readers.
 
-Citation
+**Citation**
 
 DataCanary, hilfialkaff, Lili Jiang, Meg Risdal, Nikhil Dandekar, and tomtung. Quora Question Pairs. https://kaggle.com/competitions/quora-question-pairs, 2017. Kaggle.
